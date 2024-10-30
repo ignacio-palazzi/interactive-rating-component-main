@@ -88,6 +88,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Ignacio Palazzi]([https://www.your-site.com](https://github.com/ignacio-palazzi)
-- Frontend Mentor - [@ignacio-palazzi]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/ignacio-palazzi))
+- Website - [Ignacio Palazzi](https://github.com/ignacio-palazzi)
+- Frontend Mentor - [@ignacio-palazzi](https://www.frontendmentor.io/profile/ignacio-palazzi)
 
